@@ -1,6 +1,6 @@
 ### Olá, eu sou o André Roque
 
-🌱 Atualmente estou estudando o curso DESENVOLVIMENTO WEB FULL STACK do Programador BR
+🌱 Atualmente estou estudando o curso DESENVOLVIMENTO WEB FULL STACK do Programador BR.
 
 🌱 Participei do Hiring Coders 2 da Gama Academy onde pude conhecer um pouco do Front-End, Back-End, E-commerce e AWS.
 
