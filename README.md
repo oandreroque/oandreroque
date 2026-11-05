@@ -1,9 +1,5 @@
 ### Olá, eu sou o André Roque
 
-🌱 Atualmente estou estudando o curso DESENVOLVIMENTO WEB FULL STACK do Programador BR.
-
-🌱 Participei do Hiring Coders 2 da Gama Academy onde pude conhecer um pouco do Front-End, Back-End, E-commerce e AWS.
-
  <div>
   <a href="https://github.com/oandreroque">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oandreroque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
